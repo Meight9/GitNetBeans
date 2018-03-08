@@ -85,6 +85,10 @@ public class EjerciciosBasicos1 {
         int num2 = 6;
         
         System.out.println(num1+num2+" "+num1*num2+" "+num1/num2);*/
+        
+        
+        System.out.println("Aqui trabajo perro putos");
+        
     }
     
 }
